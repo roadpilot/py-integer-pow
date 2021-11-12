@@ -1,0 +1,1 @@
+#Print the result of a^b + c^d  on one line.
